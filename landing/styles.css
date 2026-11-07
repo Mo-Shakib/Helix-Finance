@@ -1628,6 +1628,21 @@ pre {
   font-size: 0.58rem;
 }
 
+.footer__credit a {
+  color: var(--text-soft);
+  text-decoration: underline;
+  text-decoration-color: rgba(94, 234, 212, 0.28);
+  text-underline-offset: 3px;
+  transition:
+    color 160ms ease,
+    text-decoration-color 160ms ease;
+}
+
+.footer__credit a:hover {
+  color: var(--teal);
+  text-decoration-color: var(--teal);
+}
+
 /* Not found */
 
 .not-found {
