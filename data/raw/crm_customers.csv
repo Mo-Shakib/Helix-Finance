@@ -1,0 +1,235 @@
+customer_id,first_name,last_name,email,date_of_birth,country,customer_segment,created_at
+ cust-0001 ,Leo,Silva,,03-01-1970,Singapore,Private Banking,2023-09-03
+CUST-0002,Aarav,Rahman,aarav.rahman2@example.com,1973/05/01,Singapore,Premium,"Sep 30, 2025"
+CUST-0003,Grace,Shah,,1977-08-02,India,Retail,28-09-2024
+CUST-0004,Sofia,Tan,sofia.tan4@example.com,26-06-1963,Canada,Premium,19/07/2026
+CUST-0005,Aarav,Lee,aarav.lee5@example.com,"Mar 20, 2003",Singapore,Retail,2024-12-07
+CUST-0006,Ethan,Mehta,ethan.mehta6@example.com,06/02/1982,United Kingdom,,10-11-2023
+cust-0007,Leo,Singh,,1976/02/24,Australia,Retail,22/05/2022
+ cust-0008 ,Nadia,Davis,nadia.davis8@example.com,1993/06/01,Germany,Retail,2025-09-14
+ cust-0009 ,Ishaan,Patel,ishaan.patel9@example.com,1974-08-24,Netherlands,Premium,2023/02/25
+CUST-0010,Owen,Lopez,owen.lopez10@example.com,1961/08/24,Australia,Retail,"May 18, 2022"
+CUST-0011,Amelia,Walsh,,1971/07/27,,Retail,2024-08-25
+CUST-0012,Tara,Thompson,missing-at.example.com,06/09/1990,France,Retail,2026/06/13
+CUST-0013,Noah,Silva,noah.silva13@example.com,19-02-1989,South Africa,Retail,25-12-2023
+ cust-0014 ,Leila,Rahman,leila.rahman14@example.com,1967-02-04,Singapore,Retail,15-09-2022
+CUST-0015,Diya,Davis,diya.davis15@example.com,"Mar 09, 1971",,Private Banking,12-02-2026
+CUST-0016,Aisha,Chen,aisha.chen16@example.com,"Nov 10, 1993",Germany,Premium,30/04/2024
+CUST-0017,Chloe,Chen,chloe.chen17@example.com,"May 16, 1988",Singapore,Retail,"Jul 13, 2022"
+ cust-0018 ,Yusuf,Ivanova,not-an-email,1973-04-08,Brazil,Retail,2023-05-19
+CUST-0019,Nadia,Thompson,nadia.thompson19@example.com,"Jan 10, 1984",Brazil,Premium,2024-10-30
+CUST-0020,Rina,Ahmed,rina.ahmed20@example.com,21-07-1995,Australia,Retail,24-08-2023
+CUST-0021,Sofia,Fernandez,sofia.fernandez21@example.com,"Mar 14, 1984",Netherlands,Retail,29/04/2022
+CUST-0022,Anika,Rahman,not-an-email,"Jan 11, 1979",Canada,Retail,2025/12/21
+CUST-0023,Yusuf,Kim,yusuf.kim23@example.com,1962-05-15,Japan,Premium,01/12/2024
+CUST-0024,Kai,Hassan,kai.hassan24@example.com,1992-06-05,Japan,Retail,27-09-2025
+CUST-0025,Owen,Garcia,owen.garcia25@example.com,1964-05-09,Germany,Private Banking,2023-11-28
+cust-0026,Freya,Sato,freya.sato26@example.com,1969-05-06,Japan,Retail,18-05-2022
+ cust-0027 ,Owen,Ahmed,owen.ahmed27@example.com,08/11/1998,Netherlands,,2026-09-23
+CUST-0028,Nora,Patel,nora.patel28@example.com,1961/02/11,Netherlands,Private Banking,2024-05-30
+CUST-0029,Jasmine,Garcia,jasmine.garcia29@example.com,02-06-1976,United Arab Emirates,Retail,10/06/2025
+CUST-0030,Ava,Thompson,ava.thompson30@example.com,29-09-1971,United Arab Emirates,Private Banking,2024-08-09
+CUST-0031,Lucas,Kapoor,lucas.kapoor31@example.com,1993/10/23,Netherlands,Retail,2023-06-18
+CUST-0032,Fatima,Ivanova,fatima.ivanova32@example.com,14-03-1983,India,Premium,2026-03-14
+CUST-0033,Sofia,Thompson,,1975-08-27,Netherlands,Retail,"Mar 18, 2022"
+CUST-0034,Zara,Rahman,not-an-email,1962-07-18,United Arab Emirates,Premium,2022/06/16
+CUST-0035,Benjamin,Wang,benjamin.wang35@example.com,1975-11-25,France,Private Banking,2024-12-26
+CUST-0036,Priya,Anderson,priya.anderson36@example.com,"Apr 21, 1961",Canada,Retail,2023-03-02
+CUST-0037,Thomas,Chen,thomas.chen37@example.com,13-03-1974,Canada,Premium,27/07/2023
+CUST-0038,Kabir,Kim,kabir.kim38@example.com,09/06/1961,Brazil,Retail,2023/06/06
+CUST-0039,Kabir,Yamamoto,kabir.yamamoto39@example.com,1962-08-15,Brazil,Retail,2022-08-31
+CUST-0040,Maya,Wang,maya.wang40@example.com,08/04/1984,United States,Premium,2023-03-21
+ cust-0041 ,Kabir,Nguyen,kabir.nguyen41@example.com,"Sep 22, 1980",Australia,Premium,30-10-2022
+cust-0042,Lina,Hassan,lina.hassan42@example.com,26-11-2003,Netherlands,Retail,22-06-2024
+CUST-0043,Kabir,Shah,kabir.shah43@example.com,20/12/1960,Japan,Retail,11/09/2023
+CUST-0044,Maya,Martin,maya.martin44@example.com,16/03/1984,Germany,Private Banking,"Sep 20, 2024"
+CUST-0045,Layla,Sato,layla.sato45@example.com,08-01-1976,Japan,Retail,14/06/2023
+ cust-0046 ,Jacob,Rahman,jacob.rahman46@example.com,25-11-1972,Australia,Private Banking,2025/10/13
+cust-0047,Ravi,Miller,ravi.miller47@example.com,1971-04-24,Germany,Premium,2025/02/12
+CUST-0048,Leo,Nguyen,leo.nguyen48@example.com,24/07/1971,Brazil,Retail,04-05-2023
+CUST-0049,Owen,Shah,owen.shah49@example.com,"Oct 29, 1967",Canada,Retail,19/03/2026
+CUST-0050,Mateo,Patel,mateo.patel50@example.com,1961-04-13,India,Retail,2026/04/18
+CUST-0051,Freya,Tan,freya.tan51@example.com,"Aug 24, 1983",United Arab Emirates,Private Banking,2026-09-18
+CUST-0052,Layla,Reed,,17/07/1976,Japan,Private Banking,2024/08/09
+CUST-0053,Rina,Walsh,rina.walsh53@example.com,2002/09/26,Netherlands,Retail,"Oct 11, 2023"
+CUST-0054,Marcus,Smith,marcus.smith54@example.com,1965-08-27,South Africa,Retail,2023/10/20
+CUST-0055,Ava,Anderson,ava.anderson55@example.com,1985-11-21,United Arab Emirates,,2026/07/04
+CUST-0056,Hassan,Lopez,hassan.lopez56@example.com,06/10/1961,France,Retail,01-04-2024
+CUST-0057,Ethan,Fernandez,ethan.fernandez57@example.com,1963/01/20,Brazil,Premium,30/09/2026
+CUST-0058,Henry,Martin,henry.martin58@example.com,25-06-1977,United Arab Emirates,Retail,2024/08/18
+CUST-0059,Grace,Fernandez,grace.fernandez59@example.com,2000-12-23,South Africa,Retail,27-07-2022
+CUST-0060,Aarav,Rossi,,31/10/1963,Canada,Retail,2026/05/29
+CUST-0061,Hassan,Johnson,hassan.johnson61@example.com,16-05-1992,Canada,Retail,2026/03/07
+CUST-0062,Marcus,Rahman,,31/10/1972,Germany,Retail,2024/11/17
+ cust-0063 ,Zara,Thompson,zara.thompson63@example.com,1979-04-10,United States,Retail,"Jan 26, 2024"
+CUST-0064,Lina,Lopez,lina.lopez64@example.com,10-12-1969,United Kingdom,Premium,2025/09/17
+CUST-0065,Isabella,Williams,isabella.williams65@example.com,06-02-2001,Germany,Premium,2022-11-28
+CUST-0066,Henry,Walsh,henry.walsh66@example.com,26/03/1960,Japan,Retail,2025-08-03
+ cust-0067 ,Freya,Gupta,freya.gupta67@example.com,2002/10/13,France,Premium,2025/12/29
+CUST-0068,Jacob,Wang,,1982/11/04,France,Retail,06-06-2024
+CUST-0069,Anika,Yamamoto,anika.yamamoto69@example.com,09/02/1972,Germany,Premium,23/04/2025
+CUST-0070,Diya,Reed,diya.reed70@example.com,20/05/1963,France,Premium,2024-11-09
+cust-0071,Ishaan,Walsh,,1978/10/20,United Kingdom,Retail,"Jul 26, 2026"
+CUST-0072,Layla,Chen,layla.chen72@example.com,09/03/1962,United Kingdom,Retail,05/02/2023
+CUST-0073,Yusuf,Patel,yusuf.patel73@example.com,1995-03-29,United States,Retail,"Feb 11, 2022"
+cust-0074,Maya,Shah,maya.shah74@example.com,10/06/1971,Canada,Premium,2025/08/16
+CUST-0075,Ethan,Martin,,1967/12/10,Brazil,Retail,2023/12/12
+ cust-0076 ,Maya,Silva,maya.silva76@example.com,1962-05-31,United States,Premium,22-02-2022
+CUST-0077,Chloe,Kumar,chloe.kumar77@example.com,26-12-2002,Netherlands,Retail,2022-06-25
+CUST-0078,Isabella,Davis,isabella.davis78@example.com,1987-10-25,India,Premium,"Oct 11, 2023"
+CUST-0079,Anika,Nguyen,anika.nguyen79@example.com,17-02-1991,Australia,Retail,2022/06/06
+CUST-0080,Fatima,Miller,fatima.miller80@example.com,1963-11-04,,,2023/04/23
+cust-0081,Noah,Walsh,noah.walsh81@example.com,1987-07-10,Germany,Retail,2023/01/13
+ cust-0082 ,Mia,Garcia,mia.garcia82@example.com,1980-07-04,Netherlands,Premium,13/01/2024
+CUST-0083,Amelia,Patel,amelia.patel83@example.com,1972-01-19,United Arab Emirates,Private Banking,12-07-2023
+CUST-0084,Fatima,Shah,fatima.shah84@example.com,"Sep 14, 1974",India,Premium,2022/06/20
+CUST-0085,Layla,Nguyen,@example.com,04-12-1970,Japan,Retail,"Mar 05, 2023"
+CUST-0086,Yusuf,Kapoor,yusuf.kapoor86@example.com,1992/07/04,India,Retail,2024-02-19
+CUST-0087,Noah,Gupta,noah.gupta87@example.com,01/11/1982,Canada,Retail,"Sep 03, 2026"
+ cust-0088 ,Benjamin,Ivanova,,27/04/1962,Japan,Retail,"Dec 19, 2023"
+ cust-0089 ,Aarav,Wang,,17/12/1970,South Africa,Retail,18/12/2022
+CUST-0090,Grace,Yamamoto,,"Jun 06, 2001",Brazil,Retail,2023/04/07
+CUST-0091,Henry,Thompson,henry.thompson91@example.com,1986/06/30,Australia,Retail,2024-10-25
+CUST-0092,Amelia,Silva,amelia.silva92@example.com,1990-05-08,Germany,Retail,22/01/2022
+ cust-0093 ,Olivia,Fernandez,olivia.fernandez93@example.com,"Apr 10, 1976",United States,Premium,2025-10-21
+ cust-0094 ,Kabir,Miller,kabir.miller94@example.com,02/06/1963,Netherlands,Premium,20/06/2026
+CUST-0095,Lucas,Yamamoto,lucas.yamamoto95@example.com,1996/07/09,United Arab Emirates,Premium,2023/02/15
+CUST-0096,Yusuf,Thompson,yusuf.thompson96@example.com,23-06-1977,India,Retail,2024/04/27
+CUST-0097,Henry,Reed,henry.reed97@example.com,1986-09-12,Japan,Retail,"Aug 04, 2022"
+ cust-0098 ,Hassan,Lee,,15-06-1982,France,Retail,26-03-2025
+CUST-0099,Isabella,Singh,isabella.singh99@example.com,"Mar 23, 1983",,Private Banking,27/01/2023
+CUST-0100,Benjamin,Tan,benjamin.tan100@example.com,2002/01/04,United States,Retail,29/04/2024
+CUST-0101,Samir,Hassan,samir.hassan101@example.com,12-08-1972,United Kingdom,Retail,2022-12-21
+CUST-0102,Daniel,Wilson,daniel.wilson102@example.com,1987-03-01,Australia,Retail,25-06-2026
+cust-0103,Hassan,Rossi,hassan.rossi103@example.com,29/03/2003,Germany,Retail,23-07-2025
+CUST-0104,Chloe,Wang,,15/05/1996,Singapore,Retail,28/05/2026
+ cust-0105 ,Omar,Yamamoto,omar.yamamoto105@example.com,"Sep 10, 1981",Australia,Private Banking,2026/09/02
+ cust-0106 ,Aisha,Sato,aisha.sato106@example.com,07/03/2003,Brazil,Retail,09-03-2025
+CUST-0107,Kabir,Rahman,kabir.rahman107@example.com,20-11-1987,France,Retail,2025/07/15
+CUST-0108,Henry,Reed,henry.reed108@example.com,1969/01/10,India,Private Banking,2024-12-17
+CUST-0109,Kabir,Costa,kabir.costa109@example.com,22/12/1990,France,Retail,21/03/2026
+CUST-0110,Olivia,Johnson,olivia.johnson110@example.com,"Apr 28, 1979",India,,05/01/2023
+CUST-0111,Amelia,Wang,amelia.wang111@example.com,1989-12-21,South Africa,Retail,2024/11/22
+CUST-0112,Daniel,Chen,daniel.chen112@example.com,08/07/1969,India,Private Banking,07/06/2025
+CUST-0113,Tara,Yamamoto,tara.yamamoto113@example.com,29-07-1988,United States,Retail,28/07/2022
+CUST-0114,Tara,Yamamoto,tara.yamamoto114@example.com,18-05-1989,Canada,Retail,"Apr 05, 2024"
+CUST-0115,Yusuf,Walsh,yusuf.walsh115@example.com,1969-07-26,United Arab Emirates,Retail,"Mar 25, 2026"
+CUST-0116,Kabir,Rahman,kabir.rahman116@example.com,05-06-1974,Singapore,Retail,"Oct 31, 2025"
+CUST-0117,Benjamin,Kapoor,benjamin.kapoor117@example.com,29-09-1999,United States,Premium,2025/06/04
+CUST-0118,Leila,Mehta,leila.mehta118@example.com,1963-07-01,Japan,Retail,07/04/2026
+CUST-0119,Amelia,Costa,amelia.costa119@example.com,1984/08/23,South Africa,Retail,"Mar 02, 2025"
+CUST-0120,Amelia,Costa,amelia.costa120@example.com,20/02/1983,Australia,Retail,"Jul 08, 2026"
+cust-0121,Mateo,Anderson,mateo.anderson121@example.com,1988/01/22,Japan,Premium,"Sep 12, 2023"
+cust-0122,Nadia,Kumar,nadia.kumar122@example.com,1962-01-07,Canada,Retail,2022/12/27
+ cust-0123 ,Daniel,Tan,daniel.tan123@example.com,05/08/1964,India,Retail,13-03-2024
+CUST-0124,Zara,Williams,,03/03/1971,Singapore,Retail,03-07-2024
+CUST-0125,Owen,Bennett,owen.bennett125@example.com,"Sep 22, 1962",Canada,Retail,"May 08, 2024"
+CUST-0126,Isabella,Anderson,,"Dec 03, 2003",United Arab Emirates,Premium,"Jun 16, 2022"
+CUST-0127,Samir,Garcia,samir.garcia127@example.com,18/06/1984,United States,Retail,"Feb 08, 2022"
+CUST-0128,Hassan,Silva,hassan.silva128@example.com,"Jun 01, 1999",Australia,Retail,"Apr 17, 2022"
+CUST-0129,Ravi,Hassan,ravi.hassan129@example.com,1997-12-01,Canada,Private Banking,"Mar 12, 2024"
+CUST-0130,Ravi,Chen,ravi.chen130@example.com,"Aug 24, 1987",United States,Retail,"Jan 24, 2024"
+CUST-0131,Aarav,Kim,,1962/11/26,Germany,Private Banking,"Aug 05, 2023"
+CUST-0132,Fatima,Lee,fatima.lee132@example.com,1975/04/14,United Arab Emirates,Private Banking,2023-05-01
+CUST-0133,Yusuf,Garcia,yusuf.garcia133@example.com,10/10/1986,United Kingdom,Retail,20/10/2023
+CUST-0134,Ravi,Lee,ravi.lee134@example.com,"May 18, 1980",Japan,Private Banking,29/08/2026
+cust-0135,Tara,Chen,tara.chen135@example.com,12/06/1982,Singapore,Retail,2026-01-12
+CUST-0136,Benjamin,Khan,benjamin.khan136@example.com,1965-10-08,United Arab Emirates,Private Banking,2022/01/17
+CUST-0137,Leila,Patel,leila.patel137@example.com,20-04-1987,Singapore,Retail,2022-07-29
+CUST-0138,Elena,Smith,elena.smith138@example.com,12/07/1998,United States,Retail,2023-12-03
+ cust-0139 ,Mateo,Silva,mateo.silva139@example.com,10/02/1986,United Kingdom,Retail,2025/03/05
+ cust-0140 ,Benjamin,Walsh,benjamin.walsh140@example.com,1981/01/22,Canada,Retail,25/04/2022
+CUST-0141,Benjamin,Kapoor,benjamin.kapoor141@example.com,1975-01-15,United States,Retail,"May 20, 2024"
+CUST-0142,Zara,Nguyen,,1985/02/05,Australia,Private Banking,12/07/2026
+ cust-0143 ,Jasmine,Ahmed,jasmine.ahmed143@example.com,1973-01-07,United States,Private Banking,2025/03/04
+CUST-0144,Jacob,Chen,jacob.chen144@example.com,"Nov 05, 1987",Germany,Private Banking,2026-03-13
+CUST-0145,Benjamin,Nguyen,benjamin.nguyen145@example.com,1975-02-09,Germany,Premium,22/04/2024
+cust-0146,Yusuf,Singh,yusuf.singh146@example.com,1982-05-20,Australia,Retail,2023/08/09
+CUST-0147,Rina,Chen,rina.chen147@example.com,09/07/1997,,Premium,08/09/2025
+CUST-0148,Layla,Kapoor,layla.kapoor148@example.com,19/04/1969,Australia,Retail,23-06-2026
+ cust-0149 ,Fatima,Yamamoto,fatima.yamamoto149@example.com,30-06-1978,United States,Retail,2024-05-03
+CUST-0150,Rina,Chen,rina.chen150@example.com,1998/02/22,United Arab Emirates,Private Banking,"Jul 26, 2024"
+cust-0151,Diego,Zhang,diego.zhang151@example.com,11-11-1994,United Arab Emirates,Retail,2025/08/18
+CUST-0152,Ethan,Gupta,ethan.gupta152@example.com,1994-11-23,United States,Premium,2025-01-05
+CUST-0153,Mia,Silva,mia.silva153@example.com,1982/07/25,Singapore,Retail,20/02/2023
+CUST-0154,Mia,Shah,mia.shah154@example.com,"Oct 18, 1975",United Kingdom,Premium,03/09/2022
+CUST-0155,Lucas,Nguyen,lucas.nguyen155@example.com,1991/01/09,,Premium,08-03-2024
+CUST-0156,Marcus,Williams,marcus.williams156@example.com,04-01-2001,United States,Retail,2022/07/27
+CUST-0157,Ishaan,Walsh,,03/03/1992,Australia,Private Banking,2023/11/17
+ cust-0158 ,Chloe,Fernandez,chloe.fernandez158@example.com,02-01-1962,India,Private Banking,13/02/2025
+ cust-0159 ,Owen,Martin,owen.martin159@example.com,01/08/1975,Australia,Premium,2022-07-01
+CUST-0160,Isabella,Khan,isabella.khan160@example.com,29/11/1970,United Arab Emirates,Private Banking,2022-06-24
+CUST-0161,Kabir,Yamamoto,kabir.yamamoto161@example.com,17-03-1990,Singapore,Retail,2026/03/27
+ cust-0162 ,Gabriel,Williams,gabriel.williams162@example.com,1974-03-22,South Africa,Retail,"Dec 13, 2022"
+CUST-0163,Leo,Anderson,leo.anderson163@example.com,2002/09/30,Netherlands,Retail,03-12-2022
+CUST-0164,Leila,Yamamoto,missing-at.example.com,1988/02/08,India,Private Banking,26-05-2026
+ cust-0165 ,Aisha,Nguyen,aisha.nguyen165@example.com,13/04/1995,Brazil,Private Banking,20/09/2023
+CUST-0166,Priya,Taylor,priya.taylor166@example.com,1986-03-02,Japan,Private Banking,19/04/2025
+ cust-0167 ,Jacob,Costa,jacob.costa167@example.com,27/05/1971,Singapore,Retail,"Aug 19, 2022"
+CUST-0168,Lucas,Shah,lucas.shah168@example.com,"Jul 13, 1969",Netherlands,Private Banking,14-03-2024
+CUST-0169,Benjamin,Lee,benjamin.lee169@example.com,1987/07/22,Netherlands,Retail,30/03/2023
+CUST-0170,Ava,Reed,ava.reed170@example.com,"Mar 07, 1990",France,Retail,"Sep 08, 2026"
+ cust-0171 ,Amelia,Lee,amelia.lee171@example.com,1980-05-01,United Kingdom,Retail,08/10/2022
+CUST-0172,Freya,Smith,freya.smith172@example.com,11/02/1980,South Africa,Retail,16/05/2026
+cust-0173,Zara,Mehta,zara.mehta173@example.com,2001/12/12,Singapore,Private Banking,2022-08-13
+cust-0174,Isabella,Zhang,@example.com,1980/06/25,South Africa,Retail,2022/09/27
+CUST-0175,Ethan,Costa,ethan.costa175@example.com,"Sep 15, 1965",United Arab Emirates,Retail,2024-11-13
+CUST-0176,Diya,Patel,diya.patel176@example.com,07-11-1962,South Africa,Private Banking,12-01-2026
+CUST-0177,Gabriel,Martin,gabriel.martin177@example.com,16-08-1997,Brazil,Retail,2024/03/26
+CUST-0178,Henry,Walsh,henry.walsh178@example.com,26-08-1999,United Kingdom,Retail,14-01-2023
+CUST-0179,Grace,Kim,grace.kim179@example.com,10-06-1988,Brazil,Retail,2023-10-10
+CUST-0180,Daniel,Chen,daniel.chen180@example.com,"Dec 08, 2000",United States,Private Banking,2024-10-31
+CUST-0181,Gabriel,Wang,gabriel.wang181@example.com,10/08/1968,Canada,Private Banking,2025-09-06
+CUST-0182,Fatima,Wilson,@example.com,28/06/1980,,Retail,2026/01/26
+CUST-0183,Olivia,Hassan,,1988-09-03,Netherlands,Retail,2025/08/22
+CUST-0184,Isabella,Rossi,isabella.rossi184@example.com,1964-04-22,,Premium,26-12-2025
+CUST-0185,Ethan,Kapoor,ethan.kapoor185@example.com,04/04/1986,,Retail,08/10/2022
+CUST-0186,Maya,Chen,maya.chen186@example.com,"Sep 03, 1964",Netherlands,Retail,"Feb 12, 2026"
+CUST-0187,Omar,Davis,omar.davis187@example.com,02/02/1992,United States,Private Banking,2026-04-28
+ cust-0188 ,Leo,Gupta,leo.gupta188@example.com,04/03/1965,United Arab Emirates,Retail,2023/10/25
+CUST-0189,Benjamin,Lee,benjamin.lee189@example.com,"Mar 14, 1969",South Africa,,05-06-2023
+CUST-0190,Tara,Chen,tara.chen190@example.com,"Nov 13, 1985",India,Retail,2024/09/18
+CUST-0191,Yusuf,Lee,yusuf.lee191@example.com,1963/12/29,,Retail,2022-07-11
+CUST-0192,Hassan,Kim,hassan.kim192@example.com,25-08-1981,Australia,Premium,2023-01-19
+CUST-0193,Ishaan,Mehta,ishaan.mehta193@example.com,27/10/2001,South Africa,Private Banking,2024-09-20
+CUST-0194,Elena,Khan,elena.khan194@example.com,1992/12/09,Germany,Retail,2022/02/21
+CUST-0195,Mateo,Lee,mateo.lee195@example.com,1993-03-30,United States,Retail,2026-04-01
+ cust-0196 ,Henry,Tan,henry.tan196@example.com,31/07/1969,United States,Retail,14/06/2025
+CUST-0197,Diya,Costa,diya.costa197@example.com,19-11-1998,France,Premium,31-05-2023
+CUST-0198,Chloe,Fernandez,chloe.fernandez198@example.com,1974-05-26,Netherlands,Retail,2023/01/08
+CUST-0199,Benjamin,Silva,,"Jul 02, 1980",Netherlands,Retail,2023-09-28
+CUST-0200,Mateo,Smith,mateo.smith200@example.com,"Jun 14, 1965",France,Retail,"Apr 09, 2023"
+CUST-0201,Kabir,Miller,kabir.miller201@example.com,1988/11/10,Japan,Retail,17/03/2024
+ cust-0202 ,Tara,Lopez,tara.lopez202@example.com,26/05/1964,Canada,Retail,05/10/2025
+CUST-0203,Sara,Fernandez,sara.fernandez203@example.com,21-11-1971,Brazil,,2025/10/23
+CUST-0204,Olivia,Williams,olivia.williams204@example.com,1978-07-08,United Kingdom,Retail,2023/02/08
+ cust-0205 ,Rina,Walsh,rina.walsh205@example.com,09-08-1967,France,Retail,"Jul 28, 2023"
+CUST-0206,Ethan,Ahmed,ethan.ahmed206@example.com,13/12/1968,Australia,Premium,04-03-2022
+ cust-0207 ,Rina,Rahman,,1998-11-29,Australia,Retail,"May 09, 2025"
+CUST-0208,Lucas,Kumar,lucas.kumar208@example.com,1993-06-25,United Kingdom,Retail,"May 05, 2026"
+cust-0209,Zara,Martin,zara.martin209@example.com,1961/06/27,United Kingdom,Retail,18/01/2024
+CUST-0210,Gabriel,Rossi,gabriel.rossi210@example.com,16/10/1972,Australia,Retail,29/10/2025
+CUST-0211,Thomas,Ivanova,thomas.ivanova211@example.com,01-08-2003,Netherlands,Retail,2023/09/06
+CUST-0212,Benjamin,Sato,benjamin.sato212@example.com,2002/07/03,India,Retail,2023/11/02
+CUST-0213,Gabriel,Ahmed,gabriel.ahmed213@example.com,1994-07-17,Australia,Retail,"May 25, 2023"
+CUST-0214,Olivia,Rossi,olivia.rossi214@example.com,01-12-1995,United Arab Emirates,Premium,2023-10-18
+CUST-0215,Diego,Walsh,diego.walsh215@example.com,"May 08, 2001",Singapore,Premium,24-09-2023
+CUST-0216,Fatima,Anderson,fatima.anderson216@example.com,1989-10-01,Australia,Private Banking,23-02-2023
+CUST-0217,Daniel,Kapoor,daniel.kapoor217@example.com,18-08-1966,Germany,Retail,03-03-2023
+CUST-0218,Amelia,Sato,amelia.sato218@example.com,1986/03/25,India,Premium,06-12-2024
+CUST-0219,Layla,Costa,,17/10/2001,Singapore,Retail,22-10-2025
+CUST-0220,Nora,Anderson,nora.anderson220@example.com,29/08/1999,,Retail,18-08-2023
+CUST-0141,Benjamin,Kapoor,updated.benjamin.kapoor141@example.com,15/01/1975,United States,Retail,"May 23, 2024"
+CUST-0097,Henry,Reed,updated.henry.reed97@example.com,1986-09-12,Japan,Retail,2022-08-24
+CUST-0003,Grace,Shah,updated.customer,"Aug 02, 1977",India,Retail,01-10-2024
+CUST-0075,Ethan,Martin,updated.customer,1967-12-10,Brazil,Retail,2023-12-14
+cust-0180,Daniel,Chen,updated.daniel.chen180@example.com,2000-12-08,United States,Private Banking,2024-11-29
+CUST-0033,Sofia,Thompson,updated.customer,27-08-1975,Netherlands,Retail,2022-04-21
+cust-0202,Tara,Lopez,updated.tara.lopez202@example.com,1964/05/26,Canada,Retail,12/11/2025
+,Missing,Identifier,missing.id@example.com,1990-01-01,Singapore,Retail,2025-01-10
+   ,Blank,Identifier,blank.id@example.com,1985-06-12,Canada,Premium,31/12/2024
+CUST-9001,,,no.name@example.com,1991-05-05,India,Retail,2024-08-20
+CUST-9002,,,no.name.two@example.com,1993-07-05,Germany,Retail,2024-09-20
+CUST-9003,Invalid,Signup,invalid.signup@example.com,1988-02-03,France,Premium,not-a-date
+CUST-9004,Impossible,Signup,impossible.signup@example.com,1988-02-03,France,Premium,31/02/2025
+CUST-9005,Missing,Signup,missing.signup@example.com,1988-02-03,France,Premium,

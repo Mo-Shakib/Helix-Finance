@@ -1,0 +1,33 @@
+# Local PostgreSQL for the Helix Finance demo.
+# The ETL + Streamlit app run on the host and read the versioned sample
+# datasets in ./data/raw; this stack intentionally keeps only the database.
+name: helix-finance-dwh
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: helix-finance-dwh-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-finance_dwh}
+      POSTGRES_USER: ${POSTGRES_USER:-dwh_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-dwh_password}
+      TZ: UTC
+    ports:
+      - "${POSTGRES_PORT:-5433}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}",
+        ]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 5s
+
+volumes:
+  postgres_data:
+    name: helix_finance_dwh_postgres_data

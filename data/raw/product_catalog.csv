@@ -1,0 +1,11 @@
+product_code,product_name,product_family,base_rate,is_secured
+PL_PERSONAL,Personal Loan,Personal Lending,11.25%,No
+PL_AUTO,Auto Loan,Asset Finance,7.90%,Yes
+PL_HOME,Home Loan,Mortgage,5.40%,Yes
+PL_STUDENT,Student Loan,Education Finance,6.75%,No
+PL_BUSINESS,Business Loan,Commercial Lending,10.10%,No
+CC_REVOLVING,Revolving Credit Card,Cards,19.99%,No
+BNPL,Buy Now Pay Later,Consumer Credit,15.50%,No
+LOC,Line of Credit,Commercial Lending,9.35%,Yes
+PL_HOME,Home Loan,Mortgage,5.40%,Yes
+PL_UNKNOWN,,Unassigned,n/a,No

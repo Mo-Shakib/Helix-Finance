@@ -1,0 +1,92 @@
+{
+  "dataset": "Helix Finance synthetic operational sources",
+  "seed": 20261108,
+  "reference_date": "2026-10-31",
+  "generated_at": "2026-11-07T20:11:44+00:00",
+  "sources": {
+    "crm_customers.csv": {
+      "rows": 234,
+      "columns": [
+        "customer_id",
+        "first_name",
+        "last_name",
+        "email",
+        "date_of_birth",
+        "country",
+        "customer_segment",
+        "created_at"
+      ],
+      "intentional_issues": {
+        "duplicate_customer_updates": 7,
+        "missing_identifiers": 2,
+        "missing_names": 2,
+        "invalid_or_missing_signup_dates": 3,
+        "missing_or_malformed_emails": "randomly embedded",
+        "inconsistent_date_formats": true
+      }
+    },
+    "product_catalog.csv": {
+      "rows": 10,
+      "columns": [
+        "product_code",
+        "product_name",
+        "product_family",
+        "base_rate",
+        "is_secured"
+      ],
+      "intentional_issues": {
+        "duplicate_product_code": 1,
+        "invalid_reference_row": 1
+      }
+    },
+    "loan_core.csv": {
+      "rows": 296,
+      "columns": [
+        "loan_ref",
+        "borrower_id",
+        "product_code",
+        "principal",
+        "annual_rate",
+        "term_months",
+        "origination_dt",
+        "loan_status"
+      ],
+      "intentional_issues": {
+        "duplicate_loan_updates": 6,
+        "orphan_customers": 2,
+        "unknown_product": 1,
+        "invalid_principal": 3,
+        "invalid_dates": 2,
+        "missing_term": 1,
+        "missing_loan_id": 1,
+        "inconsistent_number_formats": true
+      }
+    },
+    "payment_ledger.csv": {
+      "rows": 1173,
+      "columns": [
+        "txn_id",
+        "loan_ref",
+        "borrower_id",
+        "txn_date",
+        "amount",
+        "transaction_type",
+        "channel",
+        "status"
+      ],
+      "intentional_issues": {
+        "duplicate_transaction_events": 12,
+        "missing_transaction_ids": 2,
+        "unknown_loan_references": 2,
+        "invalid_amounts": 3,
+        "invalid_dates": 2,
+        "missing_loan_reference": 1,
+        "mixed_case_categories": true
+      }
+    }
+  },
+  "totals": {
+    "rows": 1713,
+    "sources": 4
+  }
+}
