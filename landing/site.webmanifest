@@ -1,0 +1,17 @@
+{
+  "name": "Helix Finance",
+  "short_name": "Helix",
+  "description": "A mini financial data warehouse and ETL pipeline portfolio project.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060d16",
+  "theme_color": "#060d16",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
